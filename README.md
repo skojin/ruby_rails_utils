@@ -1,2 +1,2 @@
-# ruby_rails_utils
-collection of rails utils
+# Ruby/Rails utils
+Collection of rails utils that too short to put them to gems, but good to live in `lib` folder.
